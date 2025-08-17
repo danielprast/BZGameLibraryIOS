@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		20275CD32E45CB4000F0DCA4 /* BZGameLibraryIOS in Frameworks */ = {isa = PBXBuildFile; productRef = 20275CD22E45CB4000F0DCA4 /* BZGameLibraryIOS */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		20CBD8E92E45C34D00111C2F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		203925642E45EE8A00C352CF /* BZGameLibraryKit */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = BZGameLibraryKit; path = Packages/BZGameLibraryKit; sourceTree = "<group>"; };
+		203925652E45EE9000C352CF /* BZGameLibraryIOS */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = BZGameLibraryIOS; path = Packages/BZGameLibraryIOS; sourceTree = "<group>"; };
 		20CBD8DB2E45C34C00111C2F /* BZGameLibrary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BZGameLibrary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20CBD8E82E45C34D00111C2F /* BZGameLibraryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BZGameLibraryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20CBD8F22E45C34D00111C2F /* BZGameLibraryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BZGameLibraryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -52,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20275CD32E45CB4000F0DCA4 /* BZGameLibraryIOS in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +79,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		20275CC12E45C98600F0DCA4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		20CBD8D22E45C34C00111C2F = {
 			isa = PBXGroup;
 			children = (
 				20CBD8DD2E45C34C00111C2F /* BZGameLibrary */,
 				20CBD8EB2E45C34D00111C2F /* BZGameLibraryTests */,
 				20CBD8F52E45C34E00111C2F /* BZGameLibraryUITests */,
+				203925652E45EE9000C352CF /* BZGameLibraryIOS */,
+				203925642E45EE8A00C352CF /* BZGameLibraryKit */,
+				20275CC12E45C98600F0DCA4 /* Frameworks */,
 				20CBD8DC2E45C34C00111C2F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -112,6 +129,7 @@
 			);
 			name = BZGameLibrary;
 			packageProductDependencies = (
+				20275CD22E45CB4000F0DCA4 /* BZGameLibraryIOS */,
 			);
 			productName = BZGameLibrary;
 			productReference = 20CBD8DB2E45C34C00111C2F /* BZGameLibrary.app */;
@@ -552,6 +570,13 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		20275CD22E45CB4000F0DCA4 /* BZGameLibraryIOS */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = BZGameLibraryIOS;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 20CBD8D32E45C34C00111C2F /* Project object */;
 }

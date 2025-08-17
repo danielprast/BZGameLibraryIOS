@@ -6,13 +6,15 @@
 //
 
 import SwiftUI
+import BZGameLibraryIOS
+
 
 @main
 struct BZGameLibraryApp: App {
 
   var body: some Scene {
     WindowGroup {
-      ContentView()
+      MainView()
     }
   }
 
