@@ -1,0 +1,487 @@
+{
+	"count": 51,
+	"next": "https://api.rawg.io/api/platforms?key=17b077ef71454663b782533ae78d3430&page=2&page_size=10",
+	"previous": null,
+	"results": [
+		{
+			"id": 4,
+			"name": "PC",
+			"slug": "pc",
+			"games_count": 552949,
+			"image_background": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+			"image": null,
+			"year_start": null,
+			"year_end": null,
+			"games": [
+				{
+					"id": 3498,
+					"slug": "grand-theft-auto-v",
+					"name": "Grand Theft Auto V",
+					"added": 22148
+				},
+				{
+					"id": 3328,
+					"slug": "the-witcher-3-wild-hunt",
+					"name": "The Witcher 3: Wild Hunt",
+					"added": 21808
+				},
+				{
+					"id": 4200,
+					"slug": "portal-2",
+					"name": "Portal 2",
+					"added": 20635
+				},
+				{
+					"id": 4291,
+					"slug": "counter-strike-global-offensive",
+					"name": "Counter-Strike: Global Offensive",
+					"added": 18290
+				},
+				{
+					"id": 5286,
+					"slug": "tomb-raider",
+					"name": "Tomb Raider (2013)",
+					"added": 17636
+				},
+				{
+					"id": 13536,
+					"slug": "portal",
+					"name": "Portal",
+					"added": 17593
+				}
+			]
+		},
+		{
+			"id": 187,
+			"name": "PlayStation 5",
+			"slug": "playstation5",
+			"games_count": 1298,
+			"image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg",
+			"image": null,
+			"year_start": 2020,
+			"year_end": null,
+			"games": [
+				{
+					"id": 3498,
+					"slug": "grand-theft-auto-v",
+					"name": "Grand Theft Auto V",
+					"added": 22148
+				},
+				{
+					"id": 3328,
+					"slug": "the-witcher-3-wild-hunt",
+					"name": "The Witcher 3: Wild Hunt",
+					"added": 21808
+				},
+				{
+					"id": 5679,
+					"slug": "the-elder-scrolls-v-skyrim",
+					"name": "The Elder Scrolls V: Skyrim",
+					"added": 16600
+				},
+				{
+					"id": 32,
+					"slug": "destiny-2",
+					"name": "Destiny 2",
+					"added": 14542
+				},
+				{
+					"id": 3070,
+					"slug": "fallout-4",
+					"name": "Fallout 4",
+					"added": 14127
+				},
+				{
+					"id": 41494,
+					"slug": "cyberpunk-2077",
+					"name": "Cyberpunk 2077",
+					"added": 13655
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "Xbox One",
+			"slug": "xbox-one",
+			"games_count": 5701,
+			"image_background": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+			"image": null,
+			"year_start": null,
+			"year_end": null,
+			"games": [
+				{
+					"id": 3498,
+					"slug": "grand-theft-auto-v",
+					"name": "Grand Theft Auto V",
+					"added": 22148
+				},
+				{
+					"id": 3328,
+					"slug": "the-witcher-3-wild-hunt",
+					"name": "The Witcher 3: Wild Hunt",
+					"added": 21808
+				},
+				{
+					"id": 4200,
+					"slug": "portal-2",
+					"name": "Portal 2",
+					"added": 20635
+				},
+				{
+					"id": 5286,
+					"slug": "tomb-raider",
+					"name": "Tomb Raider (2013)",
+					"added": 17636
+				},
+				{
+					"id": 5679,
+					"slug": "the-elder-scrolls-v-skyrim",
+					"name": "The Elder Scrolls V: Skyrim",
+					"added": 16600
+				},
+				{
+					"id": 28,
+					"slug": "red-dead-redemption-2",
+					"name": "Red Dead Redemption 2",
+					"added": 16473
+				}
+			]
+		},
+		{
+			"id": 18,
+			"name": "PlayStation 4",
+			"slug": "playstation4",
+			"games_count": 6928,
+			"image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg",
+			"image": null,
+			"year_start": null,
+			"year_end": null,
+			"games": [
+				{
+					"id": 3498,
+					"slug": "grand-theft-auto-v",
+					"name": "Grand Theft Auto V",
+					"added": 22148
+				},
+				{
+					"id": 3328,
+					"slug": "the-witcher-3-wild-hunt",
+					"name": "The Witcher 3: Wild Hunt",
+					"added": 21808
+				},
+				{
+					"id": 5286,
+					"slug": "tomb-raider",
+					"name": "Tomb Raider (2013)",
+					"added": 17636
+				},
+				{
+					"id": 5679,
+					"slug": "the-elder-scrolls-v-skyrim",
+					"name": "The Elder Scrolls V: Skyrim",
+					"added": 16600
+				},
+				{
+					"id": 28,
+					"slug": "red-dead-redemption-2",
+					"name": "Red Dead Redemption 2",
+					"added": 16473
+				},
+				{
+					"id": 4062,
+					"slug": "bioshock-infinite",
+					"name": "BioShock Infinite",
+					"added": 15970
+				}
+			]
+		},
+		{
+			"id": 186,
+			"name": "Xbox Series S/X",
+			"slug": "xbox-series-x",
+			"games_count": 1122,
+			"image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+			"image": null,
+			"year_start": 2020,
+			"year_end": null,
+			"games": [
+				{
+					"id": 3498,
+					"slug": "grand-theft-auto-v",
+					"name": "Grand Theft Auto V",
+					"added": 22148
+				},
+				{
+					"id": 3328,
+					"slug": "the-witcher-3-wild-hunt",
+					"name": "The Witcher 3: Wild Hunt",
+					"added": 21808
+				},
+				{
+					"id": 5679,
+					"slug": "the-elder-scrolls-v-skyrim",
+					"name": "The Elder Scrolls V: Skyrim",
+					"added": 16600
+				},
+				{
+					"id": 32,
+					"slug": "destiny-2",
+					"name": "Destiny 2",
+					"added": 14542
+				},
+				{
+					"id": 41494,
+					"slug": "cyberpunk-2077",
+					"name": "Cyberpunk 2077",
+					"added": 13655
+				},
+				{
+					"id": 766,
+					"slug": "warframe",
+					"name": "Warframe",
+					"added": 13092
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "Nintendo Switch",
+			"slug": "nintendo-switch",
+			"games_count": 5664,
+			"image_background": "https://media.rawg.io/media/games/9fa/9fa63622543e5d4f6d99aa9d73b043de.jpg",
+			"image": null,
+			"year_start": null,
+			"year_end": null,
+			"games": [
+				{
+					"id": 3328,
+					"slug": "the-witcher-3-wild-hunt",
+					"name": "The Witcher 3: Wild Hunt",
+					"added": 21808
+				},
+				{
+					"id": 13536,
+					"slug": "portal",
+					"name": "Portal",
+					"added": 17593
+				},
+				{
+					"id": 5679,
+					"slug": "the-elder-scrolls-v-skyrim",
+					"name": "The Elder Scrolls V: Skyrim",
+					"added": 16600
+				},
+				{
+					"id": 4062,
+					"slug": "bioshock-infinite",
+					"name": "BioShock Infinite",
+					"added": 15970
+				},
+				{
+					"id": 1030,
+					"slug": "limbo",
+					"name": "Limbo",
+					"added": 14021
+				},
+				{
+					"id": 2454,
+					"slug": "doom",
+					"name": "DOOM (2016)",
+					"added": 13911
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "iOS",
+			"slug": "ios",
+			"games_count": 77401,
+			"image_background": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+			"image": null,
+			"year_start": null,
+			"year_end": null,
+			"games": [
+				{
+					"id": 3439,
+					"slug": "life-is-strange-episode-1-2",
+					"name": "Life is Strange",
+					"added": 15796
+				},
+				{
+					"id": 1030,
+					"slug": "limbo",
+					"name": "Limbo",
+					"added": 14021
+				},
+				{
+					"id": 422,
+					"slug": "terraria",
+					"name": "Terraria",
+					"added": 13409
+				},
+				{
+					"id": 766,
+					"slug": "warframe",
+					"name": "Warframe",
+					"added": 13092
+				},
+				{
+					"id": 416,
+					"slug": "grand-theft-auto-san-andreas",
+					"name": "Grand Theft Auto: San Andreas",
+					"added": 11859
+				},
+				{
+					"id": 23027,
+					"slug": "the-walking-dead",
+					"name": "The Walking Dead: Season 1",
+					"added": 11603
+				}
+			]
+		},
+		{
+			"id": 21,
+			"name": "Android",
+			"slug": "android",
+			"games_count": 52464,
+			"image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg",
+			"image": null,
+			"year_start": null,
+			"year_end": null,
+			"games": [
+				{
+					"id": 13536,
+					"slug": "portal",
+					"name": "Portal",
+					"added": 17593
+				},
+				{
+					"id": 13537,
+					"slug": "half-life-2",
+					"name": "Half-Life 2",
+					"added": 15907
+				},
+				{
+					"id": 802,
+					"slug": "borderlands-2",
+					"name": "Borderlands 2",
+					"added": 15872
+				},
+				{
+					"id": 3439,
+					"slug": "life-is-strange-episode-1-2",
+					"name": "Life is Strange",
+					"added": 15796
+				},
+				{
+					"id": 1030,
+					"slug": "limbo",
+					"name": "Limbo",
+					"added": 14021
+				},
+				{
+					"id": 422,
+					"slug": "terraria",
+					"name": "Terraria",
+					"added": 13409
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "Nintendo 3DS",
+			"slug": "nintendo-3ds",
+			"games_count": 1682,
+			"image_background": "https://media.rawg.io/media/games/0a5/0a5085a3fbe26be9cf9f96ff8c12746d.jpg",
+			"image": null,
+			"year_start": null,
+			"year_end": null,
+			"games": [
+				{
+					"id": 422,
+					"slug": "terraria",
+					"name": "Terraria",
+					"added": 13409
+				},
+				{
+					"id": 22509,
+					"slug": "minecraft",
+					"name": "Minecraft",
+					"added": 8721
+				},
+				{
+					"id": 2597,
+					"slug": "lego-lord-of-the-rings",
+					"name": "LEGO The Lord of the Rings",
+					"added": 5972
+				},
+				{
+					"id": 250,
+					"slug": "the-binding-of-isaac-rebirth",
+					"name": "The Binding of Isaac: Rebirth",
+					"added": 5719
+				},
+				{
+					"id": 3729,
+					"slug": "lego-the-hobbit",
+					"name": "LEGO The Hobbit",
+					"added": 5467
+				},
+				{
+					"id": 4012,
+					"slug": "resident-evil-revelations-biohazard-revelations",
+					"name": "Resident Evil Revelations",
+					"added": 4444
+				}
+			]
+		},
+		{
+			"id": 9,
+			"name": "Nintendo DS",
+			"slug": "nintendo-ds",
+			"games_count": 2484,
+			"image_background": "https://media.rawg.io/media/games/a3f/a3fb21a739b6abf7ceee3dead89a73d7.jpg",
+			"image": null,
+			"year_start": null,
+			"year_end": null,
+			"games": [
+				{
+					"id": 865,
+					"slug": "call-of-duty-black-ops",
+					"name": "Call of Duty: Black Ops",
+					"added": 6890
+				},
+				{
+					"id": 3486,
+					"slug": "syberia",
+					"name": "Syberia",
+					"added": 6810
+				},
+				{
+					"id": 2597,
+					"slug": "lego-lord-of-the-rings",
+					"name": "LEGO The Lord of the Rings",
+					"added": 5972
+				},
+				{
+					"id": 5578,
+					"slug": "grid",
+					"name": "GRID (2008)",
+					"added": 5416
+				},
+				{
+					"id": 4869,
+					"slug": "tomb-raider-underworld",
+					"name": "Tomb Raider: Underworld",
+					"added": 4934
+				},
+				{
+					"id": 5528,
+					"slug": "call-of-duty-world-at-war",
+					"name": "Call of Duty: World at War",
+					"added": 4575
+				}
+			]
+		}
+	]
+}
